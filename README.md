@@ -1,4 +1,5 @@
-# This is the Boilder-plate from Andrew Meades udemy Course 'The Complete React Developer Course (w/ Hooks and Redux)' at the end of Video #76
+# This is the Boilder-plate from Andrew Meades udemy Course 
+## _'The Complete React Developer Course (w/ Hooks and Redux)' at the end of Video #76_
 
 
 The original git link http://https://links.mead.io/budget-app ==>  https://github.com/andrewjmead/react-course-2-expensify-app does not build anymore. 
