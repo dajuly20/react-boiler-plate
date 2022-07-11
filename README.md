@@ -1,3 +1,26 @@
+
+The original git link http://https://links.mead.io/budget-app ==>  https://github.com/andrewjmead/react-course-2-expensify-app does not build anymore. 
+(npm install leads to errors)
+
+I had the same issues in the last section, so I created a new project with  npx create-react-app my-app --template typescript  
+(see: https://create-react-app.dev/docs/adding-typescript/ that I now cleaned like in Video #76 and pushed it here)
+
+https://github.com/dajuly20/react-boiler-plate
+
+Please note:
+app.js is now called index.js
+
+type 
+### `npm install` 
+to install dependencies and then type 
+### `npm start`
+to start the dev server.
+
+
+
+
+Here the original README.md  :-)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
